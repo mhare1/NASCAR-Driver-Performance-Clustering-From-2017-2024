@@ -2,8 +2,6 @@
 
 This project analyzes NASCAR Cup Series race data from 2017–2024 to measure driver performance using statistics like average finish, win rate, and consistency. Using these statistics, I identify natural clusters of performance profiles — such as elite contenders, mid-pack competitors, and backmarkers.
 
-The goal is to demonstrate data wrangling, feature engineering, clustering analysis, and visualization in a real-world sports dataset using Python and Jupyter Notebook.
-
 Data Source: NASCAR Cup Series race results (2017–2024) by joeah99
 Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Techniques Used:
