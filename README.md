@@ -4,7 +4,7 @@ This project analyzes NASCAR Cup Series race data from 2017–2024 to measure dr
 
 Data Source: NASCAR Cup Series race results (2017–2024) by joeah99 downloaded from Kaggle
 
-Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib
 Techniques Used:
 - Cleaned and aggregated race-level data for 200+ drivers
 - Feature engineering for win rates, DNF rates, laps led, and points
