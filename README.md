@@ -1,4 +1,4 @@
-# NASCAR-Driver-Performance-Clustering-From-2017-2024
+# NASCAR Driver Performance Clustering
 
 This project analyzes NASCAR Cup Series race data from 2017–2024 to measure driver performance using statistics like average finish, win rate, and consistency. Using these statistics, I identify natural clusters of performance profiles — such as elite contenders, mid-pack competitors, and backmarkers.
 
