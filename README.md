@@ -7,7 +7,7 @@ Data Source: NASCAR Cup Series race results (2017–2024) by joeah99 downloaded 
 Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib
 Techniques Used:
 - Cleaned and aggregated race-level data for 200+ drivers
-- Feature engineering for win rates, DNF rates, laps led, and points
+- Feature engineering for win rates, laps led, and points
 - K-Means clustering to group drivers into 4 tiers
 - PCA visualization of clusters
 - Boxplots explaining what defines each tier
