@@ -15,6 +15,9 @@ Techniques Used:
 Based on K-Means clustering of driver-level performance metrics (2017–2024):
 
 Tier 1 – Elite Contenders: Consistent race winners with top finishes and high lap leadership.
+
 Tier 2 – Competitive Drivers: Frequent top-10 finishes, competitive but less dominant.
+
 Tier 3 – Consistent Mid-Pack: Reliable finishers who score points but rarely lead races.
+
 Tier 4 – Developing/Backmarkers: Limited success or small-sample drivers with low point totals.
